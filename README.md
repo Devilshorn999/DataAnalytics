@@ -3,4 +3,4 @@ This is a code that I have written on making a dataset for an Gram Panchayat wit
 
 
 # Analytic report
-https://app.powerbi.com/groups/me/reports/54bc30cf-882e-4494-a8f3-787ed087560d?ctid=701bc5ec-1799-433c-8c72-7aed332c406d&pbi_source=linkShare
+https://app.powerbi.com/groups/me/reports/54bc30cf-882e-4494-a8f3-787ed087560d/ReportSection?bookmarkGuid=Bookmarkae3cfb36b4d1aec37650
