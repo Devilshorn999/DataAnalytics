@@ -1,0 +1,44 @@
+0,1,2
+ID,DesignationName,IsActive
+1,Admin,TRUE
+2,Data Entry Operator,TRUE
+3,Computer Operator,TRUE
+4,Accountant ,TRUE
+5,Computer Operator/Data Entry Operator,TRUE
+6,Technical Person,TRUE
+7,Technical Assistant,TRUE
+8,Overseer,TRUE
+9,Operator,TRUE
+10,Office Clerk,TRUE
+11,Accredited Engineer,TRUE
+12,Auditor,TRUE
+13,Accountant DEO,TRUE
+14,Electrical Technician,TRUE
+15,Lower Division Clerk,TRUE
+16,Computer Hardware Engineer,TRUE
+17,VAT Resources,TRUE
+18,CAR Driver,TRUE
+19,Clerk Typist,TRUE
+20,Social Media Executive,TRUE
+21,Attendant,TRUE
+22,Data Processing Officer Government Contract job,TRUE
+23,Back Office Computer Operator,TRUE
+24,Engineer,TRUE
+25,Executive Accountant,TRUE
+26,Site Engineer,TRUE
+27,Staff Accountant,TRUE
+28,Executive Assistant,TRUE
+29,fresher,TRUE
+30,senior Accountant,TRUE
+31,Data Operator,TRUE
+32,Document Controller,TRUE
+33,Electrician,TRUE
+34,Deputy Project Manager,TRUE
+35,Project Assistant,TRUE
+36,Legal Advisor,TRUE
+37,Junior Engineer Civil,TRUE
+38,Clerk,TRUE
+39,Assistant,TRUE
+40,GIS Engineer,TRUE
+41,Manager,TRUE
+42,Account Manager,TRUE

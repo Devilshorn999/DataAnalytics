@@ -1,0 +1,11 @@
+0,1,2
+ID,Categories,IsActive
+1,None,TRUE
+2,Blindness,TRUE
+3,Cerebral Palsy,TRUE
+4,Low Vision,TRUE
+5,Locomotor Disability,TRUE
+6,Leprosy -Cured,TRUE
+7,Mental Retardation,TRUE
+8,Mental Illness,TRUE
+9,Hearing Impairment,TRUE

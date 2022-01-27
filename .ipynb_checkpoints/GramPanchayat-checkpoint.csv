@@ -1,0 +1,9 @@
+ID,GramCode,VillageName,Block,District,State,Pincode,ContactNo,EmailID,IsActive
+1,GP001,Akhoni,Karjat,Ahmadnagar,Maharashtra,414403,8546006542,akhoni@gmail.com,True
+2,GP002,Nandgaon Peth,Amravati,Amravati,Maharashtra,444901,225370495,nandgaon peth@gmail.com,True
+3,GP003,Agonda,Canacona,South Goa,Goa,403702,228711803,agonda@gmail.com,True
+4,GP004,Shristhal,Canacona,South Goa,Goa,403702,9618126779,shristhal@reddit.com,True
+5,GP005,Kalikavu,Nilambur,Malappuram,Kerala,676525,228910792,kalikavu@gmail.com,True
+6,GP006,Andoorkonam,Thiruvananthapuram,Thiruvananthapuram,Kerala,695584,7980475424,andoorkonam@gmail.com,True
+7,GP007,Bidaraguppe,Anekal,Bangalore,Karnataka,562107,224035677,bidaraguppe@gmail.com,True
+8,GP008,Amarapura,Bellary,Bellary,Karnataka,583115,9505223806,amarapura@gmail.com,True

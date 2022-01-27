@@ -1,0 +1,9 @@
+0,1
+ID,PaymentName
+1,Cash
+2,NEFT
+3,Cheque
+4,Net Banking
+5,Phone Pay
+6,Google Pay
+7,Razor Pay
