@@ -1,8 +1,0 @@
-0,1,2,3
-ID,CertificateName,IsActive,IsDiffer
-1,ResidentCertificate,TRUE,0
-2,NoDuesCertificate,TRUE,0
-3,ToiletCertificate,TRUE,0
-4,BirthCertificate,TRUE,4
-5,MarriageCertificate,TRUE,5
-6,DeathCertificate,TRUE,6
