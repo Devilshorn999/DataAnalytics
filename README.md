@@ -1,5 +1,5 @@
 # DataAnalytics
-This is a code that I have written on making a dataset for an Gram Panchayat wit keeping it authentic as much as possible, With some changes we can create a lot of random data using this code, This data can be then used to create a analytics report, data analysis, etc.
+This is a code that I have written on making a dataset for an Gram Panchayat with keeping it authentic (as different as possible) as much as possible, With some changes we can create a lot of random data using this code, This data can be then used to create a analytics report, data analysis, etc.
 
 
 # Analytic report
